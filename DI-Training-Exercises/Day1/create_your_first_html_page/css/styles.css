@@ -1,0 +1,43 @@
+.highlight-yellow{
+    background-color: yellow;
+}
+
+.media {
+    text-align: center; 
+    align-content: center;
+    padding: 30px 60px 0px;
+}
+
+ol {
+   list-style-type:upper-roman;
+}
+
+img{
+   width:600px;
+   border: 5px solid red;
+}
+
+table {
+    text-align: center;
+    margin: 0px 15px;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding:10px;
+}
+
+.table-header{
+    margin:30px 20px 40px;
+    color:red;
+    border: 3px solid red;
+    text-align: center;
+}
+
+section{
+    padding:20px;
+}
